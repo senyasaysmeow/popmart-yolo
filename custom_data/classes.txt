@@ -1,0 +1,5 @@
+cat
+crab
+magician
+stitch
+worker
